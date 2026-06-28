@@ -1,0 +1,14 @@
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+.env
+.env.*
+!.env.example
+logs/
+*.log
+media/group-working/
+media/used/
+media/inbox/
+backups/
+*.tar.gz
+*.zip
